@@ -12,15 +12,16 @@
 - Create User
 > with assertion of response status code and response body name created
 - Update User
--  with assertion of response status code and response body name updated
+> with assertion of response status code and response body name updated
 - Delete User
--  with assertion of response status code
+> with assertion of response status code
 
 ## Documentation
 [Documentation of the Collection](https://documenter.getpostman.com/view/24819699/2s93sjUomo)
 
+
 ````bash
-> --contact
+--contact
 > linkedin: [diva](https://www.linkedin.com/in/divania-first/)
 > github: divaniaf
 > mailto: divafirstyana@gmail.com

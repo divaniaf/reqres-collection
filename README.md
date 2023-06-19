@@ -20,9 +20,8 @@
 [Documentation of the Collection](https://documenter.getpostman.com/view/24819699/2s93sjUomo)
 
 
-````bash
---contact
-> linkedin: [diva](https://www.linkedin.com/in/divania-first/)
-> github: divaniaf
-> mailto: divafirstyana@gmail.com
-````
+
+## Contact
+linkedin: [diva](https://www.linkedin.com/in/divania-first/)
+github: divaniaf
+mailto: divafirstyana@gmail.com

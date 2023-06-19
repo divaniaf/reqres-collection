@@ -6,7 +6,7 @@
 
 ## Features
 
-- Testing API on https://reqres.in/
+Testing API on https://reqres.in/
 - Fetch Users
 > with assertion of user from ID 1 (reqres API didn't shown the user that we already created on Create User API)
 - Create User
@@ -22,6 +22,6 @@
 
 
 ## Contact
-linkedin: [diva](https://www.linkedin.com/in/divania-first/)
-github: divaniaf
-mailto: divafirstyana@gmail.com
+* linkedin: [divania-first](https://www.linkedin.com/in/divania-first/)
+* github: divaniaf
+* mailto: divafirstyana@gmail.com
